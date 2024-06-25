@@ -1,0 +1,10 @@
+cookie:
+  expiry_days: 0
+  key: some_signature_key
+  name: some_cookie_name
+credentials:
+  usernames:
+    super64guy:
+      email: super64guy@gmail.com
+      name: super64guy
+      password: $2b$12$R1DnGv7sIJhNB8jGtA7xO.i094LUfc8wnzcW7hPhwImwk0MPJ8wjC
