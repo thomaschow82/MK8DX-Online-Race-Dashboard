@@ -4,7 +4,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 # Establish a connection to the database
-conn = sqlite3.connect('test.db')
+conn = sqlite3.connect('mk8dx.db')
 
 st.write("""
          # super64guy's MK8DX Online Race Dashboard
